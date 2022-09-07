@@ -46,3 +46,7 @@ Az(アズ)といいます！
 [@Siz-lab](https;//github.com/Siz-lab) - Web development project
 ### 過去に参加していたもの
 表示できるものはありません
+
+# 連絡
+- **E-mail** : az@sizlab.xyz
+- **Discord** : Az#0408
