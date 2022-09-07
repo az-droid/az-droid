@@ -1,5 +1,6 @@
 # はじめまして！Azです！
 Az(アズ)といいます！
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=az-droid&count_private=true&show_icons=true&theme=radical)
 # 基本情報
 - 2005年06月14日生まれ
 - 17歳
