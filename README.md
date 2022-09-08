@@ -46,7 +46,7 @@ Az(アズ)といいます！
 
 ## 参加プロジェクト
 ### 現在参加中のもの
-[@Siz-lab](https;//github.com/Siz-lab) - Web development project
+@Siz-lab - Web development project
 ### 過去に参加していたもの
 表示できるものはありません
 
