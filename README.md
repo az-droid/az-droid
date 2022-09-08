@@ -7,6 +7,8 @@ Az(アズ)といいます！
 - 17歳
 - 高校生兼プログラマー
 - 甘いものが好き
+[![trophy](https://github-profile-trophy.vercel.app/?username=az-droid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # 行動理念
 ## 座右の銘
