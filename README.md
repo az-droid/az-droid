@@ -2,7 +2,7 @@
 Az(アズ)といいます！  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=az-droid&count_private=true&show_icons=true&theme=tokyonight)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az-droid&theme=tokyonight)](https://github.com/az-droid/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=az-droid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=az-droid&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 基本情報
 - 2005年06月14日生まれ
