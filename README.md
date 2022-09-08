@@ -1,6 +1,6 @@
 # はじめまして！Azです！
-Az(アズ)といいます！
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=az-droid&count_private=true&show_icons=true&theme=tokyonight)
+Az(アズ)といいます！  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=az-droid&count_private=true&show_icons=true&theme=tokyonight)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az-droid&theme=tokyonight)](https://github.com/az-droid/github-readme-stats)
 # 基本情報
 - 2005年06月14日生まれ
